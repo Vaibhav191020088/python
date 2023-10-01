@@ -3,7 +3,7 @@ nose>=1.3.7
 pytest
 pytest-cov
 pluggy>=0.3.1
-py>=1.4.31
+py>=1.4.31jskljsakdf
 randomize>=0.13
 mock>=2.0.0
 sphinx>=1.4 # BSD
